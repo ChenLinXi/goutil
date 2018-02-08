@@ -1,0 +1,25 @@
+#eclipse files
+.project
+.settings
+
+#macOS files
+.DS_Store
+
+#intellij idea files
+.idea/
+*.iml
+*.vpj
+*.vpw
+*.vpwhistu
+*.vtg
+
+.vscode/
+
+#thrift generated go files
+thrift/**/*.go
+thrift/**/*.js
+
+**/*.log
+**/log
+test/**
+**/*.bkp
